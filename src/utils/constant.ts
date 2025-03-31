@@ -1,1 +1,1 @@
-export const Backend_URL = "http://localhost:4040/api/v1"
+export const Backend_URL = "https://paytm-backend-navy.vercel.app//api/v1"
